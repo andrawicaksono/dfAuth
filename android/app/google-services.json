@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "153379504047",
+    "project_id": "dfauth-c1c6a",
+    "storage_bucket": "dfauth-c1c6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153379504047:android:2113955bde0ed33c5af95a",
+        "android_client_info": {
+          "package_name": "com.dfauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153379504047-slrbirmhbrctnvduallqt2o6s2grcklf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxGhsDpy54qgfNz6auHL2LMYS-rgfH6Ic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153379504047-slrbirmhbrctnvduallqt2o6s2grcklf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
